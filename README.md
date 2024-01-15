@@ -1,7 +1,4 @@
 # SuchaniShehara
-
-https://github.com/WMSShehara/SuchaniShehara/assets/114556816/ccf37d3e-cec1-4373-952c-5fce19de7082
-
 <video src="https://github.com/WMSShehara/SuchaniShehara/assets/114556816/ccf37d3e-cec1-4373-952c-5fce19de7082" controls="controls" style="max-width: 730px;">
 </video>
 
