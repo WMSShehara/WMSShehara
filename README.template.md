@@ -43,6 +43,3 @@
 #### Version control
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-> "{{office_quote}}"
->
-> &mdash; <cite>{{office_quoted_by}}</cite>
