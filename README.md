@@ -1,6 +1,6 @@
 # SuchaniShehara
-<video src="https://github.com/WMSShehara/SuchaniShehara/assets/114556816/ccf37d3e-cec1-4373-952c-5fce19de7082" controls="controls" style="max-width: 730px;">
-</video>
+
+![welcome (1)](https://github.com/WMSShehara/SuchaniShehara/assets/114556816/74912837-7da5-499e-94ac-bc9b29165989)
 
 #### GitHub stats:
 <div style="text-align: center">
