@@ -4,6 +4,7 @@
 
 #### My profiles:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suchanis)
+[![Pinterest](https://img.shields.io/badge/pinterest-%23E60023.svg?style=for-the-badge&logo=pinterest&logoColor=white)](https://www.pinterest.com/susheha91/)
  
 #### GitHub stats:
 ...stats...
