@@ -1,4 +1,3 @@
-# SuchaniShehara
 ![welcome (1)](https://github.com/WMSShehara/SuchaniShehara/assets/114556816/74912837-7da5-499e-94ac-bc9b29165989)
 
 #### My profiles:
