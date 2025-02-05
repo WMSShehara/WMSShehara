@@ -1,4 +1,5 @@
-![welcome (1)](https://github.com/WMSShehara/SuchaniShehara/assets/114556816/74912837-7da5-499e-94ac-bc9b29165989)
+
+![DALLE2025-02-0522 50 21-AmodernandsleekGitHubcoverphotofeaturingthenameSheharainboldstylishtypographyr](https://github.com/user-attachments/assets/11406950-3552-418f-a277-0250ef54037f)
 
 #### My profiles:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suchanis)
