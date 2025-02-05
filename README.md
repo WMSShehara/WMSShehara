@@ -11,6 +11,9 @@
 <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WMSShehara&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WMSShehara&show_icons=true&theme=radical)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WMSShehara&layout=compact&theme=radical)
 
 ## Skills
 #### Languages:
