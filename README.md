@@ -1,12 +1,13 @@
-<h1 align="center">
-Hello 
+
+<table width="100%" align="center">
+  <tr>
+    <td width="40%">
+<h2>Hello 
 	<a href="https://github.com/Bouaskaoun" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
- I'm Suchani Shehara
-</h1>
-
-<p align="center">
+ I'm Suchani Shehara</h2>
+	    <p align="center">
  <a href="https://www.linkedin.com/in/suchanis">
    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
  </a>
@@ -14,56 +15,39 @@ Hello
   <img src="https://img.shields.io/badge/pinterest-%23BD081C.svg?style=plastic&logo=pinterest&logoColor=white" alt="Pinterest"/>
 </a>
 </p>
-
-<table width="100%">
-  <tr>
-    <td width="40%">
-      <h2>👤 Who am I?</h2>
-      <p><strong>Name:</strong> Your Name</p>
-      <p><strong>Role:</strong> Software Developer</p>
-      <p><strong>Location:</strong> City, Country</p>
-      <p><strong>Email:</strong> your.email@example.com</p>
-      <p><strong>LinkedIn:</strong> 
-        <a href="https://www.linkedin.com/in/yourprofile">
-          yourprofile
-        </a>
-      </p>
-      <p><strong>GitHub:</strong> 
-        <a href="https://github.com/yourusername">
-          yourusername
-        </a>
-      </p>
-    </td>
+<div align="center">
+  <img alt="GIF" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif?raw=true" height="280" />
+</div>
+      	<p>💡 I’m a curious full-stack developer who enjoys exploring new technologies and building software solutions.</p>
+	<p>🎓 Currently pursuing a degree in <strong>Information Technology</strong> at the <strong>University of Applied Sciences, oulu</strong>.</p>
+	<p>🌱 Actively learning more about <strong>LLM, Artificial Intelligence</strong>, <strong>Systems Design</strong>, and <strong>visualization data</strong>.</p>
+	<p>✍️ In my free time, I enjoy <strong>UI design</strong> and <strong>try new techniques</strong> as creative outlets.</p>
+	    </td>
     <td width="60%">
       <h2>💻 Languages and Tools</h2>
       <h4>Languages:</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=py,java,js,ts,html,css,md,kotlin&perline=4" />
+        <img src="https://skillicons.dev/icons?i=py,java,js,ts,html,css,md,kotlin&perline=8" />
       </p>
-
       <h4>Frameworks, Platforms, Libraries:</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=nodejs,react,fastapi,nextjs,spring&perline=4" />
+        <img src="https://skillicons.dev/icons?i=nodejs,react,fastapi,nextjs,spring&perline=8" />
       </p>
-
       <h4>IDEs:</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=vscode,androidstudio&perline=4" />
+        <img src="https://skillicons.dev/icons?i=vscode,androidstudio&perline=8" />
       </p>
-
       <h4>UI Design:</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=figma&perline=4" />
+        <img src="https://skillicons.dev/icons?i=figma&perline=8" />
       </p>
-
       <h4>Databases:</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=mysql,postgres&perline=4" />
+        <img src="https://skillicons.dev/icons?i=mysql,postgres&perline=8" />
       </p>
-
       <h4>Version Control:</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=github&perline=4" />
+        <img src="https://skillicons.dev/icons?i=github&perline=8" />
       </p>
     </td>
   </tr>
