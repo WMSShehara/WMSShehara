@@ -2,12 +2,9 @@
 <table width="100%" align="center">
   <tr>
     <td width="40%">
-<h2>Hello 
-	<a href="https://github.com/Bouaskaoun" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	</a>
- I'm Suchani Shehara</h2>
-	    <p align="center">
+<div align=center>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=800080&center=true&vCenter=true&width=500&lines=Hi!+I'm+Suchani+Shehara;IT+Student;Full+Stack+Developer" alt="Typing SVG" /></a>
+</div>
  <a href="https://www.linkedin.com/in/suchanis">
    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
  </a>
@@ -24,7 +21,6 @@
 	<p>✍️ In my free time, I enjoy <strong>UI design</strong> and <strong>try new techniques</strong> as creative outlets.</p>
 	    </td>
     <td width="60%">
-      <h2>💻 Languages and Tools</h2>
       <h4>Languages:</h4>
       <p>
         <img src="https://skillicons.dev/icons?i=py,java,js,ts,html,css,md,kotlin&perline=8" />
