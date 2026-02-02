@@ -1,5 +1,5 @@
 # 💫 About Me:
-💡 I’m a curious full-stack developer who enjoys exploring new technologies and building software solutions.<br><br>🎓 Currently pursuing a degree in Information Technology at the University of Applied Sciences, oulu.<br><br>🌱 Actively learning more about LLM, Artificial Intelligence, Systems Design, and visualization data.<br><br>✍️ In my free time, I enjoy UI design and try new techniques as creative outlets.
+💡 I’m a curious full-stack developer who enjoys exploring new technologies and building software solutions. Interested in pursuing future work in bioinformatics and biomedical data processing.<br><br>🎓 Currently pursuing a degree in Information Technology at the University of Applied Sciences, oulu.<br><br>🌱 Actively learning more about LLM, Artificial Intelligence, Systems Design, and visualization data.<br><br>✍️ In my free time, I enjoy UI design and try new techniques as creative outlets.
 
 
 ## 🌐 Socials:
